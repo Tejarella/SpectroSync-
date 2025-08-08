@@ -95,7 +95,7 @@ git push origin main
 >You can either use **Streamlit Cloud** or **Render Cloud** to deploy this app!
 
 ## 📞 Support
-For any help, drop your query in our **chat room**, or email us at **22311a6671@aiml.sreenidhi.edu.in**
+For any help, drop your query in our **chat room**, or email us at **22311a6677@aiml.sreenidhi.edu.in**
 
 ## ✨ Authors and Acknowledgments
 - Manvitha Pola
@@ -103,3 +103,4 @@ For any help, drop your query in our **chat room**, or email us at **22311a6671@
 - K Venkata Sai Harini
   <br>
 Special thanks to everyone who contributed to this project! 💙
+
